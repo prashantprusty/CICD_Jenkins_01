@@ -7,7 +7,7 @@
  <h1> Welcome To Prashant Prusty Automation Lab</h1>
   <h2> This application is hosted in AWS through Docker Container ... </h2>
 <marquee direction=”left” scrollamount="5">
- <h3 style="color:Tomato;">Thank you all - Rashmi , Shreemay & Aryansh !!</h3>
+ <h3 style="color:Red;">Thank you all - Rashmi , Shreemay & Aryansh !!</h3>
 </marquee>
  
 </body>
